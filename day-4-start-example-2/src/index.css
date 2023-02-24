@@ -1,10 +1,10 @@
 body {
-	background-color: bisque;
-	font-size: 28px;
 	margin: 0;
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
 		'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
 		'Droid Sans', 'Helvetica Neue', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	font-size: 36px;
+	background-color: blanchedalmond;
 }
