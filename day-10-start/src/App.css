@@ -1,3 +1,54 @@
-.App {
-	text-align: center;
+/* span {
+	font-size: 36px;
+}
+
+button {
+	width: 128px;
+	height: 78px;
+	font-size: 24px;
+	font-weight: bold;
+} */
+
+.product__container {
+	display: flex;
+	column-gap: 24px;
+	align-items: center;
+}
+
+.product__container label {
+	font-weight: bolder;
+}
+
+.product__container input {
+	border-radius: 3px;
+	padding: 8px;
+	width: 228px;
+}
+
+ul {
+	list-style-type: none;
+	font-size: 16px;
+	padding-left: 0;
+}
+
+ul li {
+	display: flex;
+	column-gap: 8px;
+	align-items: center;
+}
+li span {
+	font-family: bold;
+}
+
+ul button {
+	border-radius: 3px;
+	font-size: 18px;
+	color: tomato;
+	background-color: beige;
+	cursor: pointer;
+	padding: 8px 24px;
+}
+
+h1 {
+	text-decoration: underline;
 }
